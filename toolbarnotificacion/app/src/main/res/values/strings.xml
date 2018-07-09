@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">toolbarnotificacion</string>
+    <string name="action_favorite">Favorito</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="action_profile">Profile</string>
+    <string name="action_salir">Salir</string>
+</resources>
